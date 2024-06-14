@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.header{
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 89%;
+  background-image: url(.././public/images/darh-ellips.png);
+}
+
+
+.headres{
+  background-image: url(.././public/images/Ellips.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 89%;
+}
+
+.img_src{
+    background-image: url(/public/images/img_pexels_monstera_6238005.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 100%;;
+}
+
+.section_bg{
+    background-color: rgba(236, 244, 255, 1);
+   width: 100%;
+}
+
+
+
+::-webkit-scrollbar {
+    width: 5px;
+    height: 2px;
+  }
+   
+  ::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgb(114, 131, 138);
+  }
+   
+  ::-webkit-scrollbar-thumb {
+    background-color: rgb(114, 131, 138);
+    outline: 1px solid rgb(114, 131, 138);
+  }
