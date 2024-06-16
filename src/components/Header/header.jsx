@@ -10,7 +10,7 @@ function Headers() {
     <div id="home">
     <div className="bg-[rgb(237,248,255)] dark:bg-[#2f607f]">
       <Header />
-      <div className="flex justify-center">
+      <div className="flex justify-between">
       <div className={`${darkMode ? "header" : "headres"} h-[300px] sm:h-[600px]`}>
       <div className="flex justify-center pr-[80px] pt-[4%]">
         <div className="w-[40%]" data-aos="fade-right">
