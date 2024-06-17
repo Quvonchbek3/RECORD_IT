@@ -121,7 +121,7 @@ function Record() {
                   }
                 />
                                 <Card_Carousel
-                  imgs={"/public/images/img_mr_bochelly_ibk.png"}
+                  imgs={"images/img_mr_bochelly_ibk.png"}
                   usersImg={"images/img_ellipse_21.png"}
                   heading={"Grafik darslari"}
                   price={"$ 370"}
@@ -130,7 +130,7 @@ function Record() {
                   }
                 />
                                 <Card_Carousel
-                  imgs={"/public/images/img_jeswin_thomas_6.png"}
+                  imgs={"images/img_jeswin_thomas_6.png"}
                   usersImg={"images/img_ellipse_22.png"}
                   heading={"Frontend darslari"}
                   price={"$ 400"}
@@ -139,7 +139,7 @@ function Record() {
                   }
                 />
                                 <Card_Carousel
-                  imgs={"/public/images/img_mr_bochelly_ibk.png"}
+                  imgs={"images/img_mr_bochelly_ibk.png"}
                   usersImg={"images/img_ellipse_21.png"}
                   heading={"Grafik darslari"}
                   price={"$ 370"}
@@ -186,7 +186,7 @@ function Record() {
             </div>
             <div className="bg-white flex flex-col items-start mt-[13%] sm:mt-[4%] sm:hover:mt-0 transition-[2s] shadow-xl hover:shadow-2xl gap-[15px]  m-auto w-[90%] sm:w-[350px] h-[100%] rounded-md self-stretch px-3.5">
               <img
-                src="public/images/img_boty_telegram_1.png"
+                src="images/img_boty_telegram_1.png"
                 alt="design image"
                 className="w-[70%] h-[224px] m-auto "
               />
@@ -203,7 +203,7 @@ function Record() {
             </div>
             <div className="bg-white flex flex-col items-start mt-[13%] sm:mt-[4%] sm:hover:mt-0 transition-[2s] shadow-xl hover:shadow-2xl gap-[15px]  m-auto w-[90%] sm:w-[350px] h-[100%] rounded-md self-stretch px-3.5">
               <img
-                src="/public\images\img_magento_website_development.png"
+                src="images\img_magento_website_development.png"
                 alt="design image"
                 className="w-[100%] h-[224px]  "
               />
@@ -293,7 +293,7 @@ function Record() {
                 </p>
                 <div className="flex w-[71%] items-center gap-4 md:w-full">
                   <img
-                    src="public/images/img_ellipse_34.png"
+                    src="images/img_ellipse_34.png"
                     alt="profile image"
                     className="h-[72px] w-[72px] rounded-[50%]"
                   />
@@ -315,7 +315,7 @@ function Record() {
                 </p>
                 <div className="flex w-[71%] items-center gap-4 md:w-full">
                   <img
-                    src="public/images/img_ellipse_35.png"
+                    src="images/img_ellipse_35.png"
                     alt="profile image"
                     className="h-[72px] w-[72px] rounded-[50%]"
                   />

@@ -21,10 +21,10 @@ function Headers() {
         </div>
         <div className="flex w-[full] sm:w-[35%] items-center"  data-aos="fade-left">
         <div className="sm:w-[100%]">
-            <img src="/public/images/img_img_boy.png" className="w-full" alt="logo" />
+            <img src="images/img_img_boy.png" className="w-full" alt="logo" />
         </div>
         <div>
-            <img src="/public/images/Group boys icons.png" className="w-[200px] sm:w-[80%]" alt="logo" />
+            <img src="images/Group boys icons.png" className="w-[200px] sm:w-[80%]" alt="logo" />
         </div>
         </div>
       </div>
