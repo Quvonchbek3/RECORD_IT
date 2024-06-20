@@ -252,7 +252,7 @@ function Record() {
       <div
         data-aos="fade-up"
         id="contact"
-        className="container-xs mt-[61px] flex justify-center pt-4 md:p-5"
+        className="container-xs mb-16 mt-[61px] flex justify-center pt-4 md:p-5"
       >
         <div className="flex w-full flex-col items-center">
           <h2 className="!text-black-900 font-[700] dark:text-gray-200 text-[38px]">
@@ -333,45 +333,41 @@ function Record() {
       </div>
       <div
         data-aos="fade-up"
-        className="sm:w-[75%] mt-[9%] mx-[10%] m-0 md:m-auto sm:mt-[171px] md:p-5 md:px-5"
+        className="w-full sm:w-[75%] mt-16 border-[10px] border-white m-0 md:m-auto "
       >
-        <div className="flex flex-col items-start gap-5 rounded-md bg-blue-700 pb-[39px] pl-[213px] pr-14 pt-12 md:px-5 md:pt-5 sm:p-5">
-          <div className="flex w-full justify-center items-center">
-            <div className="flex ml-[-150px] sm:ml-0 flex-col items-center gap-2 w-[75%]">
-              <h2 className="text-gray-200 text-center text-[22px] sm:text-[36px] font-[700]">
+        <div className="rounded-md bg-blue-700 w-full">
+              <h2 className="text-gray-200 pt-9 text-center text-[22px] sm:text-[36px] font-[700]">
                 O’quvchilarimiz fikri
               </h2>
-              <p className="text-center w-[250px] text-gray-50">
+              <p className="text-center m-auto w-[250px] text-gray-50">
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Placerat <br /> mauris non dictumst in leo. Lorem ipsum dolor
                 sit amet.
               </p>
-            </div>
-          </div>
-          <div className="flex ml-[-200px] sm:m-auto sm:w-[100%] flex-col gap-[18px]">
+          <div className="mx-5 mt-10">
             <input
-              className="outline-none w-[130%] sm:w-[175%] md:w-full h-[60px] pl-2 rounded-sm"
+              className="outline-none mb-2 w-[100%] h-[60px] pl-2 rounded-sm"
               name="Name Field"
               placeholder={`ismingiz.....`}
             />
             <input
-              className="outline-none w-[130%] sm:w-[175%] md:w-full h-[60px] pl-2 rounded-[5px]"
+              className="outline-none mb-2 w-[100%] h-[60px] pl-2 rounded-[5px]"
               name="Surname Field"
               placeholder={`familyangiz`}
             />
             <input
-              className="outline-none w-[130%] sm:w-[175%] md:w-full h-[60px] pl-2 rounded-[5px]"
+              className="outline-none mb-2 w-[100%] h-[60px] pl-2 rounded-[5px]"
               name="Contact Field"
               placeholder={`Telefon nomer`}
             />
             <textarea
               name="Comment Box"
               placeholder={`Fikringizni qoldiring`}
-              className="outline-none text-gray-700 pt-2 w-[130%] sm:w-[175%] md:w-full h-[230px] pl-2 rounded-[5px]"
+              className="outline-none mb-10 text-gray-700 pt-2 w-[100%] h-[230px] pl-2 rounded-[5px]"
             />
           </div>
+          </div>
         </div>
-      </div>
     </>
   );
 }
