@@ -16,8 +16,8 @@ function Footer() {
         <div className="md:flex items-center gap-6 ml-10 sm:ml-10">
           <div data-aos="fade-right" className="flex w-[31%] flex-col gap-2.5">
             <div className="flex w-[68%] items-center md:w-full">
-              <img src="images/img_logo_1_1.png" alt="logo image" className="w-[25%]" />
-              <h3 className="text-blue-900 dark:text-gray-100 text-[30px] font-[700]">
+              <img src="images/img_logo_1_1.png" alt="logo image" className="w-[36%] sm:w-[40px]" />
+              <h3 className="text-blue-900 dark:text-gray-100 text-[20px] sm:text-[30px] font-[700]">
                 Record
               </h3>
             </div>
