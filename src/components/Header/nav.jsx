@@ -23,7 +23,7 @@ function Header() {
     >
       <div className="flex items-center w-full">
         <img src="images/img_logo_1_1.png" alt="primary logo" className="w-[15%] h-[25%]" />
-        <h2 className="font-bold !text-blue-700 text-[27px]">
+        <h2 className="font-bold !text-blue-700 sm:text-[27px]">
           Record
         </h2>
       </div>

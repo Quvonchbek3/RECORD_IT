@@ -19,12 +19,12 @@ function Headers() {
           </h1>
           <p className="text-gray-500 dark:text-gray-400 font-[400] text-[65%] ml-7 sm:ml-0 sm:text-[100%]">Sizni ko’rib turganimizdan <br /> juda ham xursandmiz!</p>
         </div>
-        <div className="flex w-[full] sm:w-[40%] items-center"  data-aos="fade-left">
-        <div className="sm:w-[100%]">
+        <div className="flex sm:w-[40%] items-center"  data-aos="fade-left">
+        <div className="-ml-32 w-32 md:w-[100%]">
             <img src="images/img_img_boy.png" className="w-full" alt="logo" />
         </div>
         <div>
-            <img src="images/Group boys icons.png" className="w-[200px] sm:w-[80%]" alt="logo" />
+            <img src="images/Group boys icons.png" className="w-[30px] sm:w-[80%]" alt="logo" />
         </div>
         </div>
       </div>
