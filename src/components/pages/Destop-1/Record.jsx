@@ -333,7 +333,7 @@ function Record() {
       </div>
       <div
         data-aos="fade-up"
-        className="w-full sm:w-[75%] mt-16 border-[10px] border-white m-0 md:m-auto "
+        className="w-full md:w-[84%] mt-16 border-[10px] border-white m-0 md:m-auto "
       >
         <div className="rounded-md bg-blue-700 w-full">
               <h2 className="text-gray-200 pt-9 text-center text-[22px] sm:text-[36px] font-[700]">
