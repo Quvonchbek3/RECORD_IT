@@ -12,7 +12,7 @@ function Headers() {
       <Header />
       <div className="flex justify-between">
       <div className={`${darkMode ? "header" : "headres"} h-[300px] sm:h-[600px]`}>
-      <div className="flex justify-between px-0 gap-32 sm:px-[120px] pt-[4%]">
+      <div className="flex justify-between px-0 gap-72 sm:px-[120px] pt-[4%]">
         <div className="w-[40%]" data-aos="fade-right">
           <h1 className="text-blue-600 ml-[25%] sm:ml-0 dark:text-gray-200 font-[700] text-[100%] sm:text-[200%] md:text-[300%]">
             Xalqaro&nbsp;darajadagi&nbsp;IT<br /> companiyaga <br /> xush kelibsizlar
